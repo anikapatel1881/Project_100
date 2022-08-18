@@ -1,0 +1,35 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body
+{
+background-image: linear-gradient(to right top, rgb(4, 0, 255), #0acbf2, #0a73aa);
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+img.hover
+{
+    border-radius: 140px;
+}
